@@ -16,5 +16,89 @@
     "function": "test_main_ticket",
     "timeout": 10,
     "points": 1
+  },
+  {
+    "name": "test_authenticate",
+    "function": "test_load_people",
+    "timeout": 10,
+    "points": 1
+  },
+  {
+    "name": "test_authenticate",
+    "function": "test_login",
+    "timeout": 10,
+    "points": 1
+  },
+  {
+    "name": "test_lottery",
+    "function": "test_create_ticket",
+    "timeout": 10,
+    "points": 1
+  },
+  {
+    "name": "test_lottery",
+    "function": "test_select_numbers",
+    "timeout": 10,
+    "points": 1
+  },
+  {
+    "name": "test_menu",
+    "function": "test_show_menu",
+    "timeout": 10,
+    "points": 1
+  },
+  {
+    "name": "test_menu",
+    "function": "test_select_menu",
+    "timeout": 10,
+    "points": 1
+  },
+  {
+    "name": "test_money",
+    "function": "test_transfer_money",
+    "timeout": 10,
+    "points": 1
+  },
+  {
+    "name": "test_money",
+    "function": "test_select_transaction",
+    "timeout": 10,
+    "points": 1
+  },
+  {
+    "name": "test_numeric_input",
+    "function": "test_read_int",
+    "timeout": 10,
+    "points": 1
+  },
+  {
+    "name": "test_numeric_input",
+    "function": "test_read_float",
+    "timeout": 10,
+    "points": 1
+  },
+  {
+    "name": "test_person",
+    "function": "test_person_creation",
+    "timeout": 10,
+    "points": 1
+  },
+  {
+    "name": "test_person",
+    "function": "test_person_invalid_balance",
+    "timeout": 10,
+    "points": 1
+  },
+  {
+    "name": "test_ticket",
+    "function": "test_ticket_creation",
+    "timeout": 10,
+    "points": 1
+  },
+  {
+    "name": "test_ticket",
+    "function": "test_ticket_invalid_joker",
+    "timeout": 10,
+    "points": 1
   }
 ]
